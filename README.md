@@ -2,7 +2,7 @@ Hi 👋 My name is Angie
 =============================================================================================================================
 
 
-My name is Angie.
+
 I am on a self-taught journey, working full time and studying programming in between!
 I want to create web tools to make your life easier.
 
@@ -18,6 +18,8 @@ I want to create web tools to make your life easier.
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 
 </p>
+
+<a href="https://www.buymeacoffee.com/angiebri"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 <!--
 **angiebri/angiebri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
