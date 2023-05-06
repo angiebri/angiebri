@@ -1,4 +1,7 @@
 ### Hi 👋
+Hi ![]👋 My name is Angie
+=============================================================================================================================
+
 
 My name is Angie.
 I am on a self-taught journey, working full time and studying programming in between!
