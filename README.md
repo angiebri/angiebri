@@ -1,8 +1,8 @@
 ### Hi 👋
-===========================================
-
+=================================
 My name is Angie.
-I am on a self-taught journey, working full time and studying programming in between! Javascript.
+I am on a self-taught journey, working full time and studying programming in between!
+I want to create web tools to make your life easier.
 
 ### Skills
 
