@@ -21,6 +21,7 @@ I want to create web tools to make your life easier.
 
 <a href="https://www.buymeacoffee.com/angiebri"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
+![Snake animation](https://github.com/angiebri/angiebri/blob/main/grid_snake)
 <!--
 **angiebri/angiebri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
