@@ -19,7 +19,7 @@ I want to create web tools to make your life easier.
 
 </p>
 
-<a href="https://www.buymeacoffee.com/angiebri"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<!-- <a href="https://www.buymeacoffee.com/angiebri"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>-->
 
 
 <!--
